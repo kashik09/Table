@@ -1,6 +1,6 @@
 # Weather Table Project
 
-This is a simple project I made for my coding bootcamp at Moringa. It shows how to use **HTML** and **CSS** to create a table. The table lists weather conditions for each day of the week.
+This is a simple project I made for my coding bootcamp at Moringa. I incorporated the use of **HTML** and **CSS** to create the table. It lists weather conditions for each day of the week.
 
 ## About the Project
 
