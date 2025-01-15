@@ -21,16 +21,16 @@ The project has:
 | Thursday|        |        |        | Partially  |
 | Friday |         | Yes    |        |            |
 
-At the bottom of the table, there’s a short message: **"A table showing weather data for the week."**
+At the bottom of the table, there’s a caption: **"A table showing weather data for the week."**
+
+## Live Site 
+You can view the live version of this project here:  
+[Weather Table Live Site](https://kashik09.github.io/moringa/)
 
 ## How It Works
 - **HTML** is used to organize the content.
 - **CSS** is used to make it look nice. 
   - It adds borders, padding, and fonts to make the table easy to read.
-
-## How to See the Project
-1. Open the `index.html` file in your web browser.
-2. You’ll see the weather table and the rest of the page.
 
 ## Tools Used
 - **HTML5**: For building the structure.
